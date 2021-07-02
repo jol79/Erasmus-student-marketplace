@@ -1,1 +1,1 @@
-# Erasmus-student-seller
+# Erasmus-student-marketplace
