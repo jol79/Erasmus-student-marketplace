@@ -1,0 +1,5 @@
+/environment
+/ess/__pycache__
+/ess/ess/__pycache__
+/ess/credentials.py
+/ess/.env
